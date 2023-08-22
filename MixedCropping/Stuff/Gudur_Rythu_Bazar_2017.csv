@@ -1,0 +1,300 @@
+Month,Arrivals,Retail Rate,Rythu Bazar Rate,Type,Code
+January,121,5,4,Aratikaya,1
+February,93,5,4,Aratikaya,1
+March,108,5,4,Aratikaya,1
+April,144,4,3,Aratikaya,1
+May,119,4,3,Aratikaya,1
+June,131,5,4,Aratikaya,1
+July,131,5,4,Aratikaya,1
+August,132,5,4,Aratikaya,1
+September,141,6,5,Aratikaya,1
+October,188,6,5,Aratikaya,1
+November,177,7,5,Aratikaya,1
+December,148,7,5,Aratikaya,1
+January,0,0,0,Beet Root,2
+February,25,25,23,Beet Root,2
+March,2,20,18,Beet Root,2
+April,0,0,0,Beet Root,2
+May,0,0,0,Beet Root,2
+June,16,36,34,Beet Root,2
+July,0,0,0,Beet Root,2
+August,0,0,0,Beet Root,2
+September,0,0,0,Beet Root,2
+October,20,32,30,Beet Root,2
+November,5,50,48,Beet Root,2
+December,10,34,32,Beet Root,2
+January,243,23,21,Bhendi,3
+February,176,32,30,Bhendi,3
+March,144,24,23,Bhendi,3
+April,172,20,18,Bhendi,3
+May,138,20,18,Bhendi,3
+June,145,23,21,Bhendi,3
+July,179,23,21,Bhendi,3
+August,179,20,17,Bhendi,3
+September,280,10,8,Bhendi,3
+October,476,23,21,Bhendi,3
+November,297,24,22,Bhendi,3
+December,304,24,22,Bhendi,3
+January,117,24,23,Bitter Gourd,4
+February,106,20,18,Bitter Gourd,4
+March,139,23,21,Bitter Gourd,4
+April,118,23,21,Bitter Gourd,4
+May,126,25,21,Bitter Gourd,4
+June,98,24,22,Bitter Gourd,4
+July,112,34,32,Bitter Gourd,4
+August,110,23,21,Bitter Gourd,4
+September,179,23,21,Bitter Gourd,4
+October,233,32,30,Bitter Gourd,4
+November,186,32,30,Bitter Gourd,4
+December,149,26,24,Bitter Gourd,4
+January,0,0,0,Bottle Gourd,5
+February,0,0,0,Bottle Gourd,5
+March,0,0,0,Bottle Gourd,5
+April,0,0,0,Bottle Gourd,5
+May,22,7,6,Bottle Gourd,5
+June,4,16,14,Bottle Gourd,5
+July,0,0,0,Bottle Gourd,5
+August,0,0,0,Bottle Gourd,5
+September,0,0,0,Bottle Gourd,5
+October,0,0,0,Bottle Gourd,5
+November,6,10,8,Bottle Gourd,5
+December,6,16,14,Bottle Gourd,5
+January,536,10,8,Brinjal,6
+February,342,30,33,Brinjal,6
+March,430,25,23,Brinjal,6
+April,490,30,28,Brinjal,6
+May,622,23,21,Brinjal,6
+June,386,37,32,Brinjal,6
+July,483,35,32,Brinjal,6
+August,508,45,42,Brinjal,6
+September,711,32,30,Brinjal,6
+October,833,45,43,Brinjal,6
+November,616,23,21,Brinjal,6
+December,718,25,22,Brinjal,6
+January,123,20,16,Cabbage,7
+February,106,17,15,Cabbage,7
+March,139,16,14,Cabbage,7
+April,153,17,15,Cabbage,7
+May,152,23,21,Cabbage,7
+June,150,23,21,Cabbage,7
+July,143,23,21,Cabbage,7
+August,143,23,21,Cabbage,7
+September,196,23,21,Cabbage,7
+October,183,23,21,Cabbage,7
+November,147,34,32,Cabbage,7
+December,133,32,30,Cabbage,7
+January,182,15,14,Carrot,8
+February,136,25,23,Carrot,8
+March,149,30,28,Carrot,8
+April,142,34,33,Carrot,8
+May,146,50,48,Carrot,8
+June,128,65,63,Carrot,8
+July,108,56,54,Carrot,8
+August,129,45,43,Carrot,8
+September,183,45,43,Carrot,8
+October,235,45,43,Carrot,8
+November,226,65,63,Carrot,8
+December,168,55,53,Carrot,8
+January,11,19,17,Cauliflower,9
+February,11,16,14,Cauliflower,9
+March,0,0,0,Cauliflower,9
+April,0,0,0,Cauliflower,9
+May,0,0,0,Cauliflower,9
+June,0,0,0,Cauliflower,9
+July,0,0,0,Cauliflower,9
+August,0,0,0,Cauliflower,9
+September,0,0,0,Cauliflower,9
+October,0,0,0,Cauliflower,9
+November,0,0,0,Cauliflower,9
+December,16,25,23,Cauliflower,9
+January,41,26,24,Cluster Beans,10
+February,11,35,33,Cluster Beans,10
+March,13,22,20,Cluster Beans,10
+April,14,21,19,Cluster Beans,10
+May,4,20,18,Cluster Beans,10
+June,0,0,0,Cluster Beans,10
+July,4,34,32,Cluster Beans,10
+August,0,0,0,Cluster Beans,10
+September,79,23,21,Cluster Beans,10
+October,105,23,21,Cluster Beans,10
+November,14,24,22,Cluster Beans,10
+December,6,23,21,Cluster Beans,10
+January,26,23,21,Colocasia,11
+February,5,26,24,Colocasia,11
+March,25,23,21,Colocasia,11
+April,12,23,21,Colocasia,11
+May,41,23,21,Colocasia,11
+June,22,24,30,Colocasia,11
+July,0,0,0,Colocasia,11
+August,0,0,0,Colocasia,11
+September,0,0,0,Colocasia,11
+October,16,5,4,Colocasia,11
+November,6,23,21,Colocasia,11
+December,0,0,0,Colocasia,11
+January,0,0,0,Cucumber,12
+February,0,0,0,Cucumber,12
+March,0,0,0,Cucumber,12
+April,0,0,0,Cucumber,12
+May,0,0,0,Cucumber,12
+June,0,0,0,Cucumber,12
+July,0,0,0,Cucumber,12
+August,0,0,0,Cucumber,12
+September,19,5,4,Cucumber,12
+October,34,7,6,Cucumber,12
+November,0,0,0,Cucumber,12
+December,0,0,0,Cucumber,12
+January,158,18,17,Donda,13
+February,123,18,16,Donda,13
+March,138,18,16,Donda,13
+April,145,15,13,Donda,13
+May,142,18,16,Donda,13
+June,120,23,21,Donda,13
+July,135,23,21,Donda,13
+August,155,20,16,Donda,13
+September,195,15,15,Donda,13
+October,208,27,25,Donda,13
+November,154,23,21,Donda,13
+December,160,23,21,Donda,13
+January,62,30,28,French Beans,14
+February,77,45,43,French Beans,14
+March,55,35,33,French Beans,14
+April,8,50,48,French Beans,14
+May,8,0,0,French Beans,14
+June,20,65,63,French Beans,14
+July,15,36,34,French Beans,14
+August,8,45,43,French Beans,14
+September,3,34,32,French Beans,14
+October,56,56,54,French Beans,14
+November,55,45,43,French Beans,14
+December,68,45,43,French Beans,14
+January,154,19,17,Green Chillies,15
+February,129,16,14,Green Chillies,15
+March,139,12,10,Green Chillies,15
+April,132,17,15,Green Chillies,15
+May,144,56,54,Green Chillies,15
+June,188,56,54,Green Chillies,15
+July,140,45,43,Green Chillies,15
+August,155,23,21,Green Chillies,15
+September,232,23,21,Green Chillies,15
+October,214,23,21,Green Chillies,15
+November,181,30,28,Green Chillies,15
+December,202,30,28,Green Chillies,15
+January,161,4,3,Leafy Vegetables,16
+February,155,3,2,Leafy Vegetables,16
+March,168,3,2,Leafy Vegetables,16
+April,157,3,2,Leafy Vegetables,16
+May,111,4,3,Leafy Vegetables,16
+June,144,5,4,Leafy Vegetables,16
+July,219,5,4,Leafy Vegetables,16
+August,158,5,4,Leafy Vegetables,16
+September,152,6,5,Leafy Vegetables,16
+October,179,6,4,Leafy Vegetables,16
+November,233,7,5,Leafy Vegetables,16
+December,219,5,4,Leafy Vegetables,16
+January,0,0,0,Lemon,17
+February,6,2,1,Lemon,17
+March,0,0,0,Lemon,17
+April,0,0,0,Lemon,17
+May,0,0,0,Lemon,17
+June,0,0,0,Lemon,17
+July,0,0,0,Lemon,17
+August,0,0,0,Lemon,17
+September,0,0,0,Lemon,17
+October,0,0,0,Lemon,17
+November,1,3,2,Lemon,17
+December,0,0,0,Lemon,17
+January,73,4,3,Mulagakada,18
+February,65,5,4,Mulagakada,18
+March,147,3,2,Mulagakada,18
+April,149,3,2,Mulagakada,18
+May,127,3,2,Mulagakada,18
+June,138,4,3,Mulagakada,18
+July,91,5,4,Mulagakada,18
+August,154,5,4,Mulagakada,18
+September,100,6,5,Mulagakada,18
+October,127,6,5,Mulagakada,18
+November,133,6,5,Mulagakada,18
+December,109,7,5,Mulagakada,18
+January,138,17,15,Onions,19
+February,100,16,15,Onions,19
+March,158,17,15,Onions,19
+April,156,17,15,Onions,19
+May,153,17,15,Onions,19
+June,163,17,15,Onions,19
+July,155,17,15,Onions,19
+August,168,26,22,Onions,19
+September,226,20,18,Onions,19
+October,221,23,21,Onions,19
+November,157,34,32,Onions,19
+December,121,40,38,Onions,19
+January,159,20,18,Potato,20
+February,165,22,20,Potato,20
+March,167,20,18,Potato,20
+April,153,20,18,Potato,20
+May,158,20,18,Potato,20
+June,148,20,18,Potato,20
+July,159,20,18,Potato,20
+August,191,22,20,Potato,20
+September,265,23,21,Potato,20
+October,335,23,21,Potato,20
+November,263,20,18,Potato,20
+December,284,20,18,Potato,20
+January,94,24,22,Ribbed Gourd,21
+February,97,30,28,Ribbed Gourd,21
+March,134,23,21,Ribbed Gourd,21
+April,120,22,20,Ribbed Gourd,21
+May,106,34,25,Ribbed Gourd,21
+June,115,34,32,Ribbed Gourd,21
+July,128,36,34,Ribbed Gourd,21
+August,134,27,25,Ribbed Gourd,21
+September,206,23,21,Ribbed Gourd,21
+October,206,32,30,Ribbed Gourd,21
+November,174,40,38,Ribbed Gourd,21
+December,126,36,34,Ribbed Gourd,21
+January,0,0,0,Snake Gourd,22
+February,0,0,0,Snake Gourd,22
+March,0,0,0,Snake Gourd,22
+April,0,0,0,Snake Gourd,22
+May,0,0,0,Snake Gourd,22
+June,10,15,13,Snake Gourd,22
+July,0,0,0,Snake Gourd,22
+August,0,0,0,Snake Gourd,22
+September,0,0,0,Snake Gourd,22
+October,0,0,0,Snake Gourd,22
+November,0,0,0,Snake Gourd,22
+December,0,0,0,Snake Gourd,22
+January,"1,075",10,7,Tomato,23
+February,829,25,23,Tomato,23
+March,"1,060",20,18,Tomato,23
+April,"1,599",10,8,Tomato,23
+May,"1,309",12,10,Tomato,23
+June,"1,287",23,21,Tomato,23
+July,939,70,50,Tomato,23
+August,"1,082",40,38,Tomato,23
+September,"1,279",23,22,Tomato,23
+October,"1,428",40,33,Tomato,23
+November,"1,252",40,38,Tomato,23
+December,"1,385",10,8,Tomato,23
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
